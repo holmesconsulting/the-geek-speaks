@@ -4,6 +4,8 @@ title: 'DC Technology Communities - Part 1 Node.js'
 categories: dctech
 excerpt: 'After moving from NY City, to the DC Metro area I have found a new technology family here in DC Tech...'
 cover-img: /assets/img/posts/nodeschooldc-logo.png
+redirect_from:
+    - /dctech/2016/03/01/dc-tech-communities-part-1.html
 ---
 
 

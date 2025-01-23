@@ -4,6 +4,8 @@ title: Robbie goes to Washington...
 categories: personal
 excerpt: "I am heading to the Department of Veteran's Affairs to work on http://www.vets.gov ..."
 cover-img: '/assets/img/posts/github-va.png'
+redirect_from:
+    - /personal/2016/04/08/robbie-goes-to-washington.html
 ---
 
 So the [TL;DR](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read) of this blog post is I am going to work for the Department of Veteran's Affairs on [vets.gov](https://www.vets.gov) project.

@@ -4,6 +4,8 @@ title: Robbie is staying at USDS, moving to the HQ team...
 categories: personal
 excerpt: "I am happy to announce that I am moving to the headquarters team of the USDS..."
 cover-img: "/assets/img/posts/usds-logo.png"
+redirect_from: 
+    - /personal/2018/03/19/robbie-still-at-usds.html
 ---
 
 I have been at the Department of Veterans Affairs working on [Vets.gov](https://www.vets.gov) and other project for the last 684 days.  I feel very lucky to have been a part of the Digital Service at the VA (DSVA) and all the amazing work we have accomplished in the last almost 2 years. I am moving to the headquarters team of the [United States Digital Service (USDS)](https://usds.gov) on Monday (3/19/18).   I will continue to use my engineering skills to assist the US government solve technology problems, but I will also be working with the amazing talent and human resources HQ staff and working with the [Procumenati, the amazing procuement team within the USDS](https://medium.com/the-u-s-digital-service/meet-the-procuremenati-usds-acquisition-experts-1e99346822b5) to provide support from an engineering perspective.

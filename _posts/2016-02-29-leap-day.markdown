@@ -3,6 +3,8 @@ layout: post
 title: 'Leap day...'
 categories: javascript
 excerpt: 'Leap day, more like leap year...'
+redirect_from: 
+    - /javascript/2016/02/29/leap-day.html
 ---
 
 Been overseeing and managing two seperate projects that have very heavily javascript influenced over the last few months. Choosing the right technology to solve the needs of the client is something I am passionate about. I have also spent years diversifying my knowledge of many technologies, mostly focused on Javascript and the associated frameworks of the day. Let's take a quick walk through each project, the problem we are solving and the implementation.
