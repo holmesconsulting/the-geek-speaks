@@ -4,6 +4,8 @@ title: Ready to pass the baton...
 cover-img: '/assets/img/posts/pass-the-baton.jpg'
 categories: personal
 excerpt: "I have run my length of the race and feel confident passing the baton to the community I leave behind. I am starting the process of looking for what will be my next role at an organization as a technical leader..."
+redirect_from:
+    - /personal/2019/11/20/passing-the-baton.html
 ---
 
 Almost 4 years ago, I joined <a href="https://www.usds.gov/">United States Digital Service</a> and that changed my life forever. I have been able to modernize government systems and transform the technology of agencies to provide access to benefits and services to some of our most vulnerable communities. During that time I was able to support veterans and their families, asylum seekers and the amazing civil servants across many agencies. Sometimes that assistance came in the form of writing code, managing projects and people, empowering those on the ground to do the work, or even being the technical representative in the procurement process. In my time at USDS I have been an individual contributor, a tech lead, a team lead and helped shape the future of USDS through interviewing and mentoring new engineers. All of this work has reenforced my overall love of being a product focused technologist that has an eye on the end user.

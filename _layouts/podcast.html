@@ -1,0 +1,49 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  <div class="row">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+      {% if page.before-content %}
+        <div class="before-content">
+          {% for file in page.before-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      <article>
+        {% for groups in site.data.podcasts %}
+        <section>
+          <h3>{{groups.section}} Podcasts</h3>
+          <ul class="podcasts">
+            {% for podcast in groups.podcasts %} {{ podcast.inspect }}
+            <li class="podcast">
+              <a class="podcast-url" href="{{ podcast.url }}">{{podcast.name}}</a>
+              <a class="podcast-icon" href="{{ podcast.itunes }}"><i class="fa-brands fa-apple fa-lg"></i></a>
+              |<a class="podcast-icon" href="{{ podcast.rss }}"><i class="fa fa-rss-square fa-lg"></i></a>
+              {% if podcast.twitter %} | <a class="podcast-icon" href="https://twitter.com/{{ podcast.twitter }}">
+                <i class="fa-brands fa-twitter-square fa-lg"></i></a>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+        {% endfor %}
+      </article>
+
+      {% if page.after-content %}
+        <div class="after-content">
+          {% for file in page.after-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% include comments.html %}
+    </div>
+  </div>
+</main>

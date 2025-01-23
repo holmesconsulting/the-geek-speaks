@@ -3,6 +3,8 @@ layout: post
 title: 'Hello World!'
 categories: thoughts
 excerpt: 'Hello World! Robbie the geek returns to blogging.'
+redirect_from:
+    - /thoughts/2016/02/28/hello-world.html
 ---
 
 I have returned to the world of blogging...

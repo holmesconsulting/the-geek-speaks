@@ -4,6 +4,8 @@ title: Learn all the things
 categories: learn
 excerpt: 'A question that I get asked pretty often is "How do I learn X or Y?" and I have answered this question a lot...'
 cover-img: '/assets/img/posts/learn-keyboard.jpg'
+redirect_from:
+    - /learn/2016/03/23/learn-all-the-things.html
 ---
 
 I meet lots of folks in the context of technology meetups and events, and I can answer questions about technologies, languages or frameworks even if it isn't my core competency.  So this generally leads to the question of:  How do I learn this or that technology?  Over the years I have described how I learn and have realized that I am often talking about the process of learning rather then the specific learnings.  So here it goes...

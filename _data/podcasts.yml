@@ -1,0 +1,58 @@
+- section: Technology
+  podcasts: 
+    - name: Giant Robots Smashing into other Giant Robots
+      url: http://giantrobots.fm/
+      itunes: https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941
+      rss: http://simplecast.fm/podcasts/271/rss
+      twitter: thoughtbot
+    - name: Art of Product
+      url: http://artofproductpodcast.com/
+      itunes: https://itunes.apple.com/us/podcast/the-art-of-product/id1243627144
+      rss: http://artofproductpodcast.com/rss
+- section: Comedy
+  podcasts:
+    - name: All Fantasy Everything
+      url: https://headgum.com/all-fantasy-everything
+      itunes: https://itunes.apple.com/us/podcast/id1155320115?at=1000lMpE&ct=hgdotcom-podcast-page
+      rss: https://warp.gumballcdn.com/v1/rss?rss=https://rss.art19.com/all-fantasy-everything
+      twitter: AllFantasyPod
+    - name: Never Not Funny
+      url: https://www.nevernotfunny.com/
+      itunes: https://podcasts.apple.com/us/podcast/never-not-funny/id142348028
+      rss: https://rss.art19.com/never-not-funny
+      twitter: nevernotfunny  
+- section: Film & Pop Culture
+  podcasts:
+    - name: /Filmcast
+      url: https://www.slashfilm.com/category/features/slashfilmcast/
+      itunes: https://podcasts.apple.com/us/podcast/the-filmcast-aka-the-slashfilmcast/id281400220
+      rss: https://audioboom.com/channels/4997224.rss
+      twitter: slashfilmcast  
+    - name: Pop Culture Happy Hour
+      url: https://www.npr.org/podcasts/510282/pop-culture-happy-hour
+      itunes: https://podcasts.apple.com/podcast/id278974813?mt=2&at=11l79Y&ct=nprdirectory
+      rss: https://feeds.npr.org/510282/podcast.xml
+      twitter: pchh
+    - name: Slash Film Daily
+      url: https://daily.slashfilm.com/
+      itunes: https://podcasts.apple.com/us/podcast/film-daily/id1254073246
+      rss: https://www.podbean.com/site/podcatcher/index/feedurl/http%253A%252F%252Fdaily.slashfilm.com%252Ffeed.xml
+      twitter: SlashFilmDaily
+    - name: The Big Picture
+      url: https://www.theringer.com/the-big-picture
+      itunes: https://podcasts.apple.com/us/podcast/the-big-picture/id1439252196
+      rss: https://open.spotify.com/show/6mTel3azvnK8isLs4VujvF?si=a3d9d3488f5542cf
+      twitter: TheBigPic
+- section: Politics
+  podcasts:
+    - name: Pod Save America
+      url: https://crooked.com/podcast-series/pod-save-america/
+      itunes: https://itunes.apple.com/us/podcast/pod-save-america/id1192761536
+      rss: http://feeds.feedburner.com/pod-save-america
+      twitter: podsaveamerica
+    - name: 538
+      url: https://fivethirtyeight.com/podcasts/
+      itunes: https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457
+      rss: https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755
+      twitter: FiveThirtyEight
+      

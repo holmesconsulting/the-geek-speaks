@@ -4,6 +4,8 @@ title: 'DC Technology Communities - Part 2 Everything else'
 categories: dctech
 excerpt: 'From NY to DC, from Node.js to Ruby and beyond...'
 cover-img: '/assets/img/posts/druplicon_luvs_ny_1.png'
+redirect_from: 
+    - /dctech/2016/03/02/dc-tech-communities-part-2.html
 ---
 
 Please read the first part of this blog post located [here]({{ site.github.url }}/dctech/2016/03/01/dc-tech-communities-part-1.html) for the first part of this post.

@@ -4,6 +4,8 @@ title: Impostor Syndrome - 22 years and still faking it.
 cover-img: "/assets/img/posts/imposter-syndrome.jpg"
 categories: personal
 excerpt: "Robbie discusses the talk about impostor syndrome, and why it is so important to him..."
+redirect_from: 
+    - /personal/2017/09/22/imposter-syndrome.html
 ---
 
 Let's start off with an admission, I have been a professional technologist for over 2 decades and still suffer from impostor syndrome sometimes.  What is [impostor syndrome?](https://en.wikipedia.org/wiki/Impostor_syndrome):
