@@ -17,19 +17,21 @@
       <span class="sr-only">X (Twitter)</span>
     </a>
   {% endif %}
-
+   {% if site.share-links-active.bluesky %}
+      <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }} {{ page.url | absolute_url | url_encode }}%20%23TheGeekSpeaks"
+        title="Share on Bluesky"><i class="fa-brands fa-square-bluesky fa-2xl" style="color: #1185fe;"></i></a>
+  {% endif %}
   {% if site.share-links-active.facebook %}
     <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
-      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+       title="Share on Facebook">
+      <i class="fa-brands fa-square-facebook fa-2xl" style="color: #0866ff;"></i>
       <span class="sr-only">Facebook</span>
     </a>
   {% endif %}
 
   {% if site.share-links-active.linkedin %}
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
-      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}" title="Share on LinkedIn">
+      <i class="fa-brands fa-linkedin fa-2xl" style="color: #0a66c2;"></i>
       <span class="sr-only">LinkedIn</span>
     </a>
   {% endif %}
