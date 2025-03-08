@@ -21,7 +21,7 @@ author: Robbie Holmes
 
 navbar-links:
   # About Me: "about-me"
-  Podcasts: podcasts
+  Podcasts: /podcasts
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
