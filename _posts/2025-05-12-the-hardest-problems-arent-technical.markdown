@@ -53,7 +53,8 @@ This solution wasn’t glamorous, cutting-edge or even that difficult in the end
 
 ## What I Learned: Alignment
 This experience reminded me—again—that solving people problems is way harder than solving technical ones.
-The fragmentation didn’t come from bad code. It came from the best of intentions  a group of folks that were moving fast and trying so hard to create solutions that helped veterans.  What we created was a lack of alignment and the fix wasn’t a new tool, it was communication, trust, and shared ownership.  As technologists, we are asked to solve problems, create solutions and systems. But we have to remember that systems are built by people and if the people aren’t aligned and organized, even the best technical solution won’t hold.
+The fragmentation didn’t come from bad code. It came from the best of intentions  a group of folks that were moving fast and trying so hard to create solutions that helped veterans.  What we created was a lack of alignment and the fix wasn’t a new tool, it was communication, trust, and shared ownership.
+> __As technologists, we are asked to solve problems, create solutions and systems. But we have to remember that systems are built by people and if the people aren’t aligned and organized, even the best technical solution won’t hold.__
 
 ---
 
