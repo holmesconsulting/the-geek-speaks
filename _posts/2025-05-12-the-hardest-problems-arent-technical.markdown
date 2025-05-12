@@ -30,7 +30,7 @@ That’s when I was asked to figure out how to fix it.
 
 ---
 
-## Step One: Listen
+## The Approach: Communicate 
 I didn’t jump into solution mode. Not immediately. First, I talked to the entire engineering team explaining what I was trying to accomplish, a unified and consistent system that we could deploy without a lot of complexity.
 Then I sat with each team, asking them about their solutions, the problems they were asked to solve and the decisions. I listened to what they were trying to solve and why they chose the tools they did and what I found was that everyone had good reasons and reasonable approaches and worse nobody had done anything wrong—they just hadn’t been asked to make one system..
 Next we brought everyone together and mapped the duplication, discussed the tradeoffs, and asked a critical question: 
@@ -51,13 +51,13 @@ This solution wasn’t glamorous, cutting-edge or even that difficult in the end
 
 ---
 
-## What I Learned
+## What I Learned: Alignment
 This experience reminded me—again—that solving people problems is way harder than solving technical ones.
 The fragmentation didn’t come from bad code. It came from the best of intentions  a group of folks that were moving fast and trying so hard to create solutions that helped veterans.  What we created was a lack of alignment and the fix wasn’t a new tool, it was communication, trust, and shared ownership.  As technologists, we are asked to solve problems, create solutions and systems. But we have to remember that systems are built by people and if the people aren’t aligned and organized, even the best technical solution won’t hold.
 
 ---
 
-## Final Thought
+## Final Thought: Communicate
 If you’re a tech leader, or hoping to become one, remember: your job isn’t just to write great code or make smart architecture decisions. Your job is to create alignment, help your teams work together. To succeed in your role you must listen, guide, and make space for collaboration so they can succeed in their roles.  That’s the real work and it’s the most rewarding work you can do:
 >__Deliver solutions that meet the needs of your end users and are aligned, are maintainable and are secure.__
 
