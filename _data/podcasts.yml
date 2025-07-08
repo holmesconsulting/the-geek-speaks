@@ -23,6 +23,11 @@
       twitter: nevernotfunny  
 - section: Film & Pop Culture
   podcasts:
+    - name: Geek On Film 
+      url: https://geekonfilm.com/
+      itunes: https://podcasts.apple.com/us/podcast/geek-on-film/id1637502307
+      rss: https://anchor.fm/s/93628d7c/podcast/rss
+      twitter: https://x.com/geekonfilmcom
     - name: /Filmcast
       url: https://www.slashfilm.com/category/features/slashfilmcast/
       itunes: https://podcasts.apple.com/us/podcast/the-filmcast-aka-the-slashfilmcast/id281400220
