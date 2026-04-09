@@ -6,7 +6,7 @@ date: 2026-04-08
 tags: [hcgi, rebrand, consulting, govtech, startup]
 thumbnail-img: /assets/img/posts/hcgi-relaunch-sq.jpg
 share-img: /assets/img/posts/hcgi-relaunch-og.jpg
-cover-img: /assets/img/posts/hcgi-relaunch-og.jpg
+cover-img: /assets/img/posts/hcgi-relaunch-header.jpg
 ---
 
 I've been doing this work for a long time. And if I'm being honest with myself, I've been terrible at talking about it.
