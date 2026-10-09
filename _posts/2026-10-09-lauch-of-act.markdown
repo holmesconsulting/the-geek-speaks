@@ -9,6 +9,9 @@ cover-img: /assets/img/posts/act-launch-header.jpg
 share-img: /assets/img/posts/act-launch-og.jpg
 ---
 
+Claude did. All of it — every route, every migration, every test, every bug fix, every one of those 155 commits.
+
+---
 # I Was the Conductor. AI Was the Orchestra.
 
 ### I wrote the score, not the code
