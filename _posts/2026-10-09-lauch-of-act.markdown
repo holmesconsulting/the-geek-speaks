@@ -103,7 +103,7 @@ There's a report-a-problem link built into the app for exactly this reason. See 
 
 This post was about the product and the working relationship. Still to come:
 
-- **The infrastructure** — how ACT is actually hosted, deployed, and kept running, and the real incidents that shaped those decisions
+- [**The infrastructure**](/act-the-infrastructure/) — how ACT is actually hosted, deployed, and kept running, and the real incidents that shaped those decisions
 - **The process and data workflows** — how awards and film data actually gets into the app, and what it looks like to catch and fix data problems at scale
 - **The tradeoffs** — what I'd do differently, what this approach is genuinely bad at, and where I overrode the AI's first instinct and why
 
