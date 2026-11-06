@@ -75,7 +75,7 @@ And budget for the watching layer from the start. Your AI pair will happily buil
 
 ## Coming up
 
-- **Data workflows.** How awards and film data get into ACT, why BAFTA didn't make it, and how data problems get found and fixed.
+- [**Data workflows.**](/act-the-data/) How awards and film data get into ACT, why BAFTA didn't make it, and how data problems get found and fixed.
 - **Tradeoffs.** What I'd change, where this approach struggles, and where I overrode the AI's instincts.
 
 ## The receipts
